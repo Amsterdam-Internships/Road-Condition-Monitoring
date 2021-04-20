@@ -33,6 +33,6 @@ The road section dataset includes the following variables:
 |  |  | Max - 2020 |
 |  |  | NAs - 40 |
 
-![](Road-Condition-Monitoring/tree/main/media/road-construction-year-hist.jpeg)
+![](https://github.com/Amsterdam-Internships/Road-Condition-Monitoring/blob/main/media/road-construction-year-hist.jpeg)
 
 [1] CROW (2011) ‘Handleiding globale visuele inspectie’ https://www.crow.nl/publicaties/handleiding-globale-visuele-inspectie-2011
