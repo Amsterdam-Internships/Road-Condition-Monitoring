@@ -4,7 +4,7 @@ The inspection data includes 23,919 inspections undertaken on 11,112 separate st
 
 The inspections data comes as a CSV with corresponding shapefiles for the stretches of roads inspected. Road section coverage and specificity are demonstrated below, with roads coloured by the year they were built:
 
-![](media/roads.gif)
+![](Road-Condition-Monitoring/tree/main/media/roads.gif)
 
 The road section dataset includes the following variables:
 
@@ -33,6 +33,6 @@ The road section dataset includes the following variables:
 |  |  | Max - 2020 |
 |  |  | NAs - 40 |
 
-![](media/road-construction-year-hist.jpeg)
+![](Road-Condition-Monitoring/tree/main/media/road-construction-year-hist.jpeg)
 
 [1] CROW (2011) ‘Handleiding globale visuele inspectie’ https://www.crow.nl/publicaties/handleiding-globale-visuele-inspectie-2011
