@@ -30,8 +30,24 @@ The road section dataset includes the following variables:
 | JAAR_VAN_A | Year built | Minimum - 1901 |
 |  |  | Median - 1990 |
 |  |  | Max - 2020 |
-|  |  | Max - 2020 |
 |  |  | NAs - 40 |
+| JAAR_LAATS | Year ?? | Minimum - 1960 |
+|  |  | Median - 2005 |
+|  |  | Max - 2019 |
+|  |  | NAs - 9,102 |
+| JAAR_UITGE | Year ?? | Minimum - 1960 |
+|  |  | Median - 2005 |
+|  |  | Max - 2020 |
+|  |  | NAs - 4,367 |
+| OPPERVLAKT | Surface Area | Minimum - 0.059 |
+|  |  | Median - 418.354 |
+|  |  | Max - 28821.762 |
+| GEBRUIKSFU  | Road usage | Roadway - 11,112 |
+| TYPE_RIJST  | Type of lane | NAs - 10,644 |
+| | | Cycle lane - 464 |
+| | | Additional lane - 2 |
+| | | Sloping lane - 1 |
+| | | Lane - 1 |
 
 ![](media/road-construction-year-hist.jpeg)
 
