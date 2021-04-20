@@ -1,0 +1,20 @@
+﻿
+[TatukGIS Fields]
+BEHEERDER=Beheerder gedetailleerd
+GEBRUIKSFU=Gebruiksfunctie
+GUID=Guid
+ID=Id
+IDENTIFICA=Identificatie
+JAAR_LAATS=Jaar laatste conservering
+JAAR_UITGE=Jaar uitgevoerd onderhoud
+JAAR_VAN_A=Jaar van aanleg
+KLEUR=Kleur
+OBJECTTYPE=Objecttype
+OPENBARE_R=Openbare ruimte
+OPPERVLAKT=Oppervlakte GIS
+TYPE_EXTRA=Type extra gedetailleerd
+TYPE_GEDET=Type gedetailleerd
+TYPE_RIJST=Type rijstrook
+TYPE=Type
+WEGTYPE_BE=Wegtype bestaand
+
