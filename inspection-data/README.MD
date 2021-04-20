@@ -4,7 +4,7 @@ The inspection data includes 23,919 inspections undertaken on 11,112 separate st
 
 The inspections data comes as a CSV with corresponding shapefiles for the stretches of roads inspected. Road section coverage and specificity are demonstrated below, with roads coloured by the year they were built:
 
-![](Road-Condition-Monitoring/media/roads.gif)
+![](https://github.com/Amsterdam-Internships/Road-Condition-Monitoring/blob/main/media/roads.gif)
 
 The road section dataset includes the following variables:
 
