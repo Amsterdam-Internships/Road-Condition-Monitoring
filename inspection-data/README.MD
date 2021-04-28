@@ -48,7 +48,40 @@ The road section dataset includes the following variables:
 | | | Additional lane - 2 |
 | | | Sloping lane - 1 |
 | | | Lane - 1 |
+| WEGTYPE_BE  | Type of road | Average Road Traffic - 3,705 |
+| | | Road in residential area - 3,198 |
+| | | Heavy duty road - 2,838 |
+| | | Lightly loaded road - 1,362 |
+| | | Cycle paths - 8 |
+| | | Road in residential are (mislabeled?) - 6 |
+| OPENBARE_R  | Street name | NAs - 790 |
+| BEHEERDER  | Road Management | NAs - 75 |
 
 ![](https://github.com/Amsterdam-Internships/Road-Condition-Monitoring/blob/main/media/road-construction-year-hist.jpeg)
+
+The inspections dataset includes the following variables:
+
+| Variable  | Description | Summary |
+| ------------- | ------------- | ------------- |
+| Verhardingsobject.Guid | Unique road segment identifier  | N/A  |
+| Datum  | Date of inspection  | Minimum = 2014-01-01  |
+|   |   | Maximum = 2020-02-18  |
+| Inspecterende.organisatie  | Inspecting organisation | NAs = 23,919  |
+| Dwarsonvlakheid  | Transverse Unevenness | G (no significant damage) - 22,898  |
+|   |  | L1 (mild damage, less than 5m) - 390  |
+|   |  | L2 (mild damage, 5-15m) - 193  |
+|   |  | L3 (mild damage, 15-35m) - 118  |
+|   |  | M1 (moderate damage, less than 5m) - 91  |
+|   |  | NAs - 87  |
+|   |  | E1 (severe damage, less than 5m) - 69  |
+|   |  | M2 (moderate damage, 5-15m) - 38  |
+|   |  | M3 (moderate damage, 15-35m) - 20  |
+|   |  | E2 (severe damage, 5-15m) - 9  |
+|   |  | E3 (severe damage, 15-35m) - 6  |
+| Langsonvlakheid  | Longitudinal Flatness | NAs - 23,919  |
+| Langsonvlakheid  | Unevenness | NAs - 23,919  |
+
+
+![](https://github.com/Amsterdam-Internships/Road-Condition-Monitoring/blob/main/media/inspection-date-hist.jpeg)
 
 [1] CROW (2011) ‘Handleiding globale visuele inspectie’ https://www.crow.nl/publicaties/handleiding-globale-visuele-inspectie-2011
