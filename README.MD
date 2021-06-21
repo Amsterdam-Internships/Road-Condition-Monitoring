@@ -10,4 +10,4 @@ Rapid advances in computer vision mean a wide range of potential applications. O
 
 #### Approach
 
-![](media/approach_flowchart.jpeg)
+![](media/Stacked CNNs.jpeg)
